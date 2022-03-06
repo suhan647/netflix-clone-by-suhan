@@ -1,1 +1,1 @@
-# netflix-clone-by-suhan
+# live link: https://netflix-clone-by-suhan.herokuapp.com/
